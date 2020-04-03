@@ -5,7 +5,6 @@ import MarkdownFormat from './markdown-format';
 import './editor.css';
 
 
-
 class MarkdownEditor extends React.Component {
 	constructor(props) {
 		super(props);

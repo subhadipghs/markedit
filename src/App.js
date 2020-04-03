@@ -7,7 +7,7 @@ function App({children}) {
   return (
     <Container id="width">
       <Header as='h1' className="App-header">
-        Markdown editor
+        MarkEdit
         <Emoji symbol="🔥" ariaLabel="fire" />
       </Header>
       {children}
