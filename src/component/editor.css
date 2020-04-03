@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Russo+One');
+
+#editor {
+	resize: vertical;	
+	letter-spacing: 1.5;
+}
+
+.header {
+	font-family: 'Russo One', sans-serif !important;
+}
